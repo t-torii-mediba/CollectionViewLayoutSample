@@ -15,6 +15,7 @@
 		12F42E081FF08C2A006DA02E /* CollectionViewLayoutSamplesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F42E071FF08C2A006DA02E /* CollectionViewLayoutSamplesUITests.swift */; };
 		12F42E2C1FF0D58D006DA02E /* TableStyleUICollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F42E2B1FF0D58D006DA02E /* TableStyleUICollectionViewLayout.swift */; };
 		12F42E2E1FF0D85E006DA02E /* CollectionSampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F42E2D1FF0D85E006DA02E /* CollectionSampleViewController.swift */; };
+		12F42E301FF0E204006DA02E /* collectionsample.gif in Resources */ = {isa = PBXBuildFile; fileRef = 12F42E2F1FF0E204006DA02E /* collectionsample.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		12F42E221FF08CDC006DA02E /* CollectionViewLayoutSamples copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "CollectionViewLayoutSamples copy-Info.plist"; path = "/Users/torii/Downloads/CollectionViewLayoutSamples/CollectionViewLayoutSamples copy-Info.plist"; sourceTree = "<absolute>"; };
 		12F42E2B1FF0D58D006DA02E /* TableStyleUICollectionViewLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableStyleUICollectionViewLayout.swift; sourceTree = "<group>"; };
 		12F42E2D1FF0D85E006DA02E /* CollectionSampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionSampleViewController.swift; sourceTree = "<group>"; };
+		12F42E2F1FF0E204006DA02E /* collectionsample.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = collectionsample.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				12F42DEE1FF08C2A006DA02E /* Assets.xcassets */,
 				12F42DF01FF08C2A006DA02E /* LaunchScreen.storyboard */,
 				12F42DF31FF08C2A006DA02E /* Info.plist */,
+				12F42E2F1FF0E204006DA02E /* collectionsample.gif */,
 			);
 			path = CollectionViewLayoutSamples;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 			files = (
 				12F42DF21FF08C2A006DA02E /* LaunchScreen.storyboard in Resources */,
 				12F42DEF1FF08C2A006DA02E /* Assets.xcassets in Resources */,
+				12F42E301FF0E204006DA02E /* collectionsample.gif in Resources */,
 				12F42DED1FF08C2A006DA02E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
