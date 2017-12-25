@@ -1,4 +1,4 @@
 # CollectionViewLayoutSample
 CollectionViewの設定サンプル
 
-![result](https://github.com/(GitHub登録のアカウント名)/(リポジトリ名)/blob/media/XXXX.gif)
+![result](https://github.com/t-torii-mediba/CollectionViewLayoutSample/blob/media/gif/CollectionViewLayoutSamples/collectionsample.gif)
