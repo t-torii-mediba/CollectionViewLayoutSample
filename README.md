@@ -27,7 +27,7 @@ CollectionViewの操作各種のまとめ
 
 ## Installation
 
-    ```$ git clone git@github.com:t-torii-mediba/CollectionViewLayoutSample.git```
+    $ git clone git@github.com:t-torii-mediba/CollectionViewLayoutSample.git
 
 ## Anything Else
 
