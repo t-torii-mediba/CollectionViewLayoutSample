@@ -27,7 +27,7 @@ CollectionViewの操作各種のまとめ
 
 ## Installation
 
-    $ git clone https://github.com/b4b4r07/awesome-tool
+    ```$ git clone git@github.com:t-torii-mediba/CollectionViewLayoutSample.git```
 
 ## Anything Else
 
@@ -39,5 +39,5 @@ CollectionViewの操作各種のまとめ
 
 ## License
 
-[MIT]
+MIT
 
