@@ -15,7 +15,7 @@ CollectionViewの操作各種のまとめ
 - Delete 
 - Move
 - Custom layout
-- Custom layout with animation
+- Change layout with animation
 
 ## Requirement
 
