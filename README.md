@@ -1,41 +1,29 @@
 # CollectionViewLayoutSample
 CollectionViewの設定サンプル
 
-# Awesome-name
-
-![Badge Status](https://ci-as-a-service)
-
-OverviewOverviewOverview
-
 ## Description
 
-DescriptionDescriptionDescription
-DescriptionDescriptionDescription
-DescriptionDescriptionDescription
+CollectionViewの操作各種のまとめ
 
 ***DEMO:***
 
-![Demo](https://image-url.gif)
+![result](https://github.com/t-torii-mediba/CollectionViewLayoutSample/blob/media/gif/CollectionViewLayoutSamples/collectionsample.gif)
 
 ## Features
 
-- Awesome function
-- Awesome UI
-- ...
-
-For more information, see `awesome-tool --help`.
+- Insert
+- Delete 
+- Move
+- Custom layout
+- Custom layout with animation
 
 ## Requirement
 
-- Requirement
-- Requirement
-- Requirement
+- Swift 4.0
 
 ## Usage
 
-1. Usage
-2. Usage
-3. Usage
+
 
 ## Installation
 
@@ -43,18 +31,13 @@ For more information, see `awesome-tool --help`.
 
 ## Anything Else
 
-AnythingAnythingAnything
-AnythingAnythingAnything
-AnythingAnythingAnything
+
 
 ## Author
 
-[@b4b4r07](https://twitter.com/b4b4r07)
+[t-torii-mediba](https://github.com/t-torii-mediba)
 
 ## License
 
-[MIT](http://b4b4r07.mit-license.org)
+[MIT]
 
-
-
-![result](https://github.com/t-torii-mediba/CollectionViewLayoutSample/blob/media/gif/CollectionViewLayoutSamples/collectionsample.gif)
